@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Cracked",
+    "modifiers": { "attack": -1, "defense": -1 }
+  },
+  {
+    "name": "Rusty",
+    "modifiers": { "attack": -2 }
+  },
+  {
+    "name": "Sharp",
+    "modifiers": { "attack": 2 }
+  },
+  {
+    "name": "Reinforced",
+    "modifiers": { "defense": 3 }
+  },
+  {
+    "name": "Enchanted",
+    "modifiers": { "int": 3, "attack": 1 }
+  },
+  {
+    "name": "Bloodsoaked",
+    "modifiers": { "str": 2, "attack": 3 }
+  },
+  {
+    "name": "Lightweight",
+    "modifiers": { "dex": 2, "dodge": 1 }
+  },
+  {
+    "name": "Charismatic",
+    "modifiers": { "cha": 2 }
+  },
+  {
+    "name": "Toxic",
+    "modifiers": { "attack": 1, "hp": -5 }
+  },
+  {
+    "name": "Molten",
+    "modifiers": { "attack": 4, "hp": -3 }
+  },
+  {
+    "name": "Frozen",
+    "modifiers": { "defense": 2, "dex": -1 }
+  },
+  {
+    "name": "Spiked",
+    "modifiers": { "attack": 1, "defense": 1 }
+  },
+  {
+    "name": "Cursed",
+    "modifiers": { "int": 5, "hp": -10 }
+  },
+  {
+    "name": "Blessed",
+    "modifiers": { "hp": 20, "cha": 1 }
+  },
+  {
+    "name": "Serrated",
+    "modifiers": { "attack": 3 }
+  },
+  {
+    "name": "Wicked",
+    "modifiers": { "cha": -2, "attack": 4 }
+  },
+  {
+    "name": "Glowing",
+    "modifiers": { "int": 1, "cha": 1 }
+  },
+  {
+    "name": "Reeking",
+    "modifiers": { "cha": -3 }
+  },
+  {
+    "name": "Insulated",
+    "modifiers": { "defense": 2, "con": 1 }
+  },
+  {
+    "name": "Vicious",
+    "modifiers": { "str": 2, "attack": 2 }
+  }
+]

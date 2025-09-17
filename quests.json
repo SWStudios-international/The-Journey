@@ -1,0 +1,35 @@
+[
+  {
+    "id": "q001",
+    "title": "Cleanse the Rotten Well",
+    "type": "kill",
+    "objective": {
+      "target": "Plague Rat",
+      "amount": 5
+    },
+    "location_hint": "near the abandoned well in Ash Hollow",
+    "required_level": 1,
+    "rewards": {
+      "xp": 100,
+      "gold": 50,
+      "items": ["Antitoxin Vial"]
+    },
+    "followup": "q002"
+  },
+  {
+    "id": "q002",
+    "title": "Burn the Nest",
+    "type": "fetch",
+    "objective": {
+      "item": "Firestarter Oil",
+      "amount": 1
+    },
+    "location_hint": "hidden cave under the burnt tree",
+    "required_level": 2,
+    "rewards": {
+      "xp": 150,
+      "gold": 70
+    },
+    "followup": null
+  }
+]

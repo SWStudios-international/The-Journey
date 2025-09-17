@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Common",
+    "color": "white",
+    "drop_chance": 50.0,
+    "stat_multiplier": 1.0
+  },
+  {
+    "name": "Uncommon",
+    "color": "green",
+    "drop_chance": 30.0,
+    "stat_multiplier": 1.2
+  },
+  {
+    "name": "Rare",
+    "color": "blue",
+    "drop_chance": 12.0,
+    "stat_multiplier": 1.5
+  },
+  {
+    "name": "Epic",
+    "color": "purple",
+    "drop_chance": 5.0,
+    "stat_multiplier": 1.8
+  },
+  {
+    "name": "Legendary",
+    "color": "orange",
+    "drop_chance": 2.0,
+    "stat_multiplier": 2.2
+  },
+  {
+    "name": "Mythical",
+    "color": "red",
+    "drop_chance": 0.95,
+    "stat_multiplier": 2.8
+  },
+  {
+    "name": "Divine",
+    "color": "gold",
+    "drop_chance": 0.3,
+    "stat_multiplier": 3.5
+  },
+  {
+    "name": "Pink Gold",
+    "color": "#ffc0cb",
+    "drop_chance": 0.05,
+    "stat_multiplier": 5.0
+  }
+]

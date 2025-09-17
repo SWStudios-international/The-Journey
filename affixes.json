@@ -1,0 +1,62 @@
+[
+  {
+    "name": "of the Bear",
+    "modifiers": { "str": 2, "hp": 10 }
+  },
+  {
+    "name": "of the Fox",
+    "modifiers": { "dex": 2, "dodge": 5 }
+  },
+  {
+    "name": "of the Scholar",
+    "modifiers": { "int": 3 }
+  },
+  {
+    "name": "of the Street",
+    "modifiers": { "cha": 1, "barter": 5 }
+  },
+  {
+    "name": "of the Brute",
+    "modifiers": { "str": 3, "melee_damage": 5 }
+  },
+  {
+    "name": "of the Junkyard",
+    "modifiers": { "defense": 2, "hp": 5 }
+  },
+  {
+    "name": "of Fever Dreams",
+    "modifiers": { "int": 1, "cha": 2 }
+  },
+  {
+    "name": "of Cold Steel",
+    "modifiers": { "attack": 4, "crit_chance": 2 }
+  },
+  {
+    "name": "of Doom",
+    "modifiers": { "attack": 7, "defense": -1 }
+  },
+  {
+    "name": "of Rotten Luck",
+    "modifiers": { "luck": -2, "crit_chance": 3 }
+  },
+  {
+    "name": "of Fast Hands",
+    "modifiers": { "dex": 3, "reload_speed": 10 }
+  },
+  {
+    "name": "of Filth",
+    "modifiers": { "cha": -2, "defense": 1 }
+  },
+  {
+    "name": "of the Nomad",
+    "modifiers": { "hp": 15, "con": 1 }
+  },
+  {
+    "name": "of Madness",
+    "modifiers": { "int": 2, "sanity": -5 }
+  },
+  {
+    "name": "of the Roach",
+    "modifiers": { "hp": 5, "dodge": 3, "luck": 1 }
+  }
+]

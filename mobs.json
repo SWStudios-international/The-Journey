@@ -1,0 +1,195 @@
+[
+  {
+    "id": "goblin",
+    "name": "Goblin",
+    "type": "humanoid",
+    "level": 1,
+    "hp": 15,
+    "stats": {"str": 6, "dex": 14, "con": 10, "int": 10, "wis": 8, "cha": 8},
+    "loot": ["rusty_knife", "half_cookie"],
+    "behavior": "aggressive"
+  },
+  {
+    "id": "skeleton",
+    "name": "Skeleton",
+    "type": "undead",
+    "level": 1,
+    "hp": 20,
+    "stats": {"str": 12, "dex": 10, "con": 10, "int": 6, "wis": 8, "cha": 5},
+    "loot": ["bone_shard", "old_shield"],
+    "behavior": "aggressive"
+  },
+  {
+    "id": "orc",
+    "name": "Orc",
+    "type": "humanoid",
+    "level": 2,
+    "hp": 30,
+    "stats": {"str": 16, "dex": 10, "con": 14, "int": 7, "wis": 11, "cha": 10},
+    "loot": ["orcish_axe", "leather_jacket"],
+    "behavior": "aggressive"
+  },
+  {
+    "id": "bandit",
+    "name": "Bandit",
+    "type": "humanoid",
+    "level": 2,
+    "hp": 25,
+    "stats": {"str": 11, "dex": 13, "con": 12, "int": 10, "wis": 9, "cha": 10},
+    "loot": ["coin_pouch", "dagger"],
+    "behavior": "cunning"
+  },
+  {
+    "id": "giant_rat",
+    "name": "Giant Rat",
+    "type": "beast",
+    "level": 1,
+    "hp": 10,
+    "stats": {"str": 6, "dex": 15, "con": 10, "int": 2, "wis": 10, "cha": 4},
+    "loot": ["rat_tail"],
+    "behavior": "swarming"
+  },
+  {
+    "id": "kobold",
+    "name": "Kobold",
+    "type": "reptilian",
+    "level": 1,
+    "hp": 13,
+    "stats": {"str": 7, "dex": 15, "con": 9, "int": 8, "wis": 7, "cha": 8},
+    "loot": ["small_dagger", "pebble_charm"],
+    "behavior": "cowardly"
+  },
+  {
+    "id": "zombie",
+    "name": "Zombie",
+    "type": "undead",
+    "level": 2,
+    "hp": 35,
+    "stats": {"str": 13, "dex": 6, "con": 16, "int": 3, "wis": 6, "cha": 5},
+    "loot": ["rotting_flesh"],
+    "behavior": "mindless"
+  },
+  {
+    "id": "wraith",
+    "name": "Wraith",
+    "type": "undead",
+    "level": 4,
+    "hp": 40,
+    "stats": {"str": 8, "dex": 18, "con": 10, "int": 14, "wis": 12, "cha": 15},
+    "loot": ["spectral_cloak"],
+    "behavior": "evasive"
+  },
+  {
+    "id": "slime",
+    "name": "Slime",
+    "type": "ooze",
+    "level": 2,
+    "hp": 28,
+    "stats": {"str": 6, "dex": 4, "con": 18, "int": 1, "wis": 3, "cha": 1},
+    "loot": ["slime_gel"],
+    "behavior": "mindless"
+  },
+  {
+    "id": "mimic",
+    "name": "Mimic",
+    "type": "aberration",
+    "level": 5,
+    "hp": 55,
+    "stats": {"str": 19, "dex": 12, "con": 16, "int": 5, "wis": 13, "cha": 8},
+    "loot": ["mimic_tooth", "gold_chest"],
+    "behavior": "ambush"
+  },
+
+
+  {
+    "id": "troll",
+    "name": "Troll",
+    "type": "giant",
+    "level": 6,
+    "hp": 84,
+    "stats": {"str": 18, "dex": 13, "con": 20, "int": 7, "wis": 9, "cha": 7},
+    "loot": ["regenerating_flesh", "bone_club"],
+    "behavior": "aggressive"
+  },
+  {
+    "id": "giant_spider",
+    "name": "Giant Spider",
+    "type": "beast",
+    "level": 3,
+    "hp": 45,
+    "stats": {"str": 14, "dex": 16, "con": 12, "int": 2, "wis": 10, "cha": 4},
+    "loot": ["spider_silk", "venom_sac"],
+    "behavior": "ambush"
+  },
+  {
+    "id": "specter",
+    "name": "Specter",
+    "type": "undead",
+    "level": 3,
+    "hp": 33,
+    "stats": {"str": 1, "dex": 14, "con": 11, "int": 12, "wis": 11, "cha": 14},
+    "loot": ["ghost_shard"],
+    "behavior": "cursed"
+  },
+  {
+    "id": "cultist",
+    "name": "Cultist",
+    "type": "humanoid",
+    "level": 2,
+    "hp": 28,
+    "stats": {"str": 9, "dex": 10, "con": 12, "int": 13, "wis": 11, "cha": 12},
+    "loot": ["dark_scroll", "hooded_robe"],
+    "behavior": "fanatic"
+  },
+
+  {
+    "id": "bugbear",
+    "name": "Bugbear",
+    "type": "goblinoid",
+    "level": 3,
+    "hp": 50,
+    "stats": {"str": 17, "dex": 14, "con": 14, "int": 8, "wis": 11, "cha": 9},
+    "loot": ["spiked_club"],
+    "behavior": "brutal"
+  },
+  {
+    "id": "harpy",
+    "name": "Harpy",
+    "type": "monstrosity",
+    "level": 3,
+    "hp": 38,
+    "stats": {"str": 12, "dex": 13, "con": 12, "int": 7, "wis": 10, "cha": 13},
+    "loot": ["harpy_feather"],
+    "behavior": "seductive"
+  },
+  {
+    "id": "ghoul",
+    "name": "Ghoul",
+    "type": "undead",
+    "level": 3,
+    "hp": 44,
+    "stats": {"str": 14, "dex": 12, "con": 16, "int": 7, "wis": 9, "cha": 8},
+    "loot": ["claw", "stained_cloak"],
+    "behavior": "cannibal"
+  },
+  {
+    "id": "ogre",
+    "name": "Ogre",
+    "type": "giant",
+    "level": 5,
+    "hp": 70,
+    "stats": {"str": 19, "dex": 8, "con": 16, "int": 5, "wis": 7, "cha": 7},
+    "loot": ["ogre_club", "snack_bag"],
+    "behavior": "brute"
+  },
+  {
+    "id": "dryad",
+    "name": "Dryad",
+    "type": "fey",
+    "level": 4,
+    "hp": 32,
+    "stats": {"str": 8, "dex": 14, "con": 12, "int": 14, "wis": 15, "cha": 18},
+    "loot": ["leaf_charm", "nature_essence"],
+    "behavior": "elusive"
+  }
+]

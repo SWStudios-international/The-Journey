@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Rusty Knife",
+    "type": "weapon",
+    "description": "An old, barely sharp knife.",
+    "base_modifiers": {"attack": 2},
+    "scaling": {"attack": {"per_level": 0.3, "rarity_multiplier": true}},
+    "slot": "main_hand"
+  },
+  {
+    "name": "Worn Hoodie",
+    "type": "armor",
+    "description": "Offers minimal protection and maximum apathy.",
+    "base_modifiers": {"defense": 1},
+    "scaling": {"defense": {"per_level": 0.2, "rarity_multiplier": true}},
+    "slot": "chest"
+  },
+  {
+    "name": "Cracked Sunglasses",
+    "type": "accessory",
+    "description": "Slightly boosts your street cred.",
+    "base_modifiers": {"charisma": 1},
+    "scaling": {"charisma": {"per_level": 0.1, "rarity_multiplier": true}},
+    "slot": "head"
+  },
+  {
+    "name": "Canned Beans",
+    "type": "food",
+    "description": "Gives you gas and calories.",
+    "base_modifiers": {"hp": 10},
+    "scaling": {"hp": {"per_level": 2, "rarity_multiplier": false}},
+    "slot": "consumable"
+  },
+  {
+    "name": "Steel-Toe Boots",
+    "type": "armor",
+    "description": "Add some kick to your step.",
+    "base_modifiers": {"defense": 2},
+    "scaling": {"defense": {"per_level": 0.3, "rarity_multiplier": true}},
+    "slot": "feet"
+  },
+  {
+    "name": "Leather Gloves",
+    "type": "armor",
+    "description": "Slick and functional.",
+    "base_modifiers": {"dexterity": 1},
+    "scaling": {"dexterity": {"per_level": 0.2, "rarity_multiplier": true}},
+    "slot": "hands"
+  },
+  {
+    "name": "Pipe Wrench",
+    "type": "weapon",
+    "description": "A solid piece of metal. Heavy.",
+    "base_modifiers": {"attack": 4},
+    "scaling": {"attack": {"per_level": 0.5, "rarity_multiplier": true}},
+    "slot": "two_handed"
+  },
+  {
+    "name": "Energy Drink",
+    "type": "food",
+    "description": "Heart palpitations included.",
+    "base_modifiers": {"dexterity": 1, "hp": 5},
+    "scaling": {
+      "dexterity": {"per_level": 0.2, "rarity_multiplier": false},
+      "hp": {"per_level": 1, "rarity_multiplier": false}
+    },
+    "slot": "consumable"
+  },
+  {
+    "name": "Bulletproof Vest",
+    "type": "armor",
+    "description": "Sketchy Craigslist listing. Still works.",
+    "base_modifiers": {"defense": 4},
+    "scaling": {"defense": {"per_level": 0.7, "rarity_multiplier": true}},
+    "slot": "chest"
+  },
+  {
+    "name": "Plated Pants",
+    "type": "armor",
+    "description": "Heavy duty legwear.",
+    "base_modifiers": {"defense": 3},
+    "scaling": {"defense": {"per_level": 0.5, "rarity_multiplier": true}},
+    "slot": "legs"
+  },
+  {
+    "name": "Chain Necklace",
+    "type": "accessory",
+    "description": "Might be cursed. Definitely shiny.",
+    "base_modifiers": {"charisma": 2},
+    "scaling": {"charisma": {"per_level": 0.4, "rarity_multiplier": true}},
+    "slot": "accessory"
+  },
+  {
+    "name": "Combat Knife",
+    "type": "weapon",
+    "description": "Military surplus. Sharp and silent.",
+    "base_modifiers": {"attack": 5},
+    "scaling": {"attack": {"per_level": 0.6, "rarity_multiplier": true}},
+    "slot": "main_hand"
+  },
+  {
+    "name": "Crowbar",
+    "type": "weapon",
+    "description": "Ideal for prying and pummeling.",
+    "base_modifiers": {"attack": 6, "strength": 1},
+    "scaling": {
+      "attack": {"per_level": 0.7, "rarity_multiplier": true},
+      "strength": {"per_level": 0.3, "rarity_multiplier": true}
+    },
+    "slot": "two_handed"
+  },
+  {
+    "name": "Dirty Bandana",
+    "type": "accessory",
+    "description": "Hides your face. Or your shame.",
+    "base_modifiers": {"charisma": -1, "stealth": 1},
+    "scaling": {
+      "stealth": {"per_level": 0.2, "rarity_multiplier": true}
+    },
+    "slot": "head"
+  },
+  {
+    "name": "Spiked Bat",
+    "type": "weapon",
+    "description": "Homemade menace.",
+    "base_modifiers": {"attack": 7},
+    "scaling": {"attack": {"per_level": 0.9, "rarity_multiplier": true}},
+    "slot": "two_handed"
+  },
+  {
+    "name": "Tactical Gloves",
+    "type": "armor",
+    "description": "Grip, punch, repeat.",
+    "base_modifiers": {"dexterity": 2},
+    "scaling": {"dexterity": {"per_level": 0.3, "rarity_multiplier": true}},
+    "slot": "hands"
+  },
+  {
+    "name": "Protein Bar",
+    "type": "food",
+    "description": "Dry as hell, but it works.",
+    "base_modifiers": {"hp": 8},
+    "scaling": {"hp": {"per_level": 2, "rarity_multiplier": false}},
+    "slot": "consumable"
+  },
+  {
+    "name": "Police Baton",
+    "type": "weapon",
+    "description": "Once used to maintain order. Now, chaos.",
+    "base_modifiers": {"attack": 3},
+    "scaling": {"attack": {"per_level": 0.4, "rarity_multiplier": true}},
+    "slot": "main_hand"
+  },
+  {
+    "name": "Torn Jeans",
+    "type": "armor",
+    "description": "Surprisingly durable. And fashionable.",
+    "base_modifiers": {"defense": 1},
+    "scaling": {"defense": {"per_level": 0.2, "rarity_multiplier": true}},
+    "slot": "legs"
+  },
+  {
+    "name": "Makeshift Shield",
+    "type": "armor",
+    "description": "Stop signs have many uses.",
+    "base_modifiers": {"defense": 5},
+    "scaling": {"defense": {"per_level": 1.0, "rarity_multiplier": true}},
+    "slot": "off_hand"
+  }
+]
